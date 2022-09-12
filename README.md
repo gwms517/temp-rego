@@ -1,1 +1,1 @@
-# temp-rego
+# temp-repo
